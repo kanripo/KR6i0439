@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:39.460623
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:36
 #+TITLE: 佛說雜藏經
 #+PROPERTY: CBETA_ID T17n0745
 #+PROPERTY: ID KR6i0439
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 745
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0439_T_000-0557b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0439_T_001-0557b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.745¶
-
- 《佛說雜藏經》¶
+No. 745¶
+《佛說雜藏經》¶
 ¶
 東晉平陽沙門法顯譯¶
 
@@ -127,7 +126,7 @@ No.745¶
 
 目連答言：「汝前世¶
 時，作調馬師，或作調象師。象馬難制，汝以鐵¶
-針刺脚；又時牛遲，亦以針刺，是故受罪如¶
+針刺脚；又時牛遲，亦以針剌，是故受罪如¶
 是。此惡行華報，地獄苦果方在後耳。」
 <pb:KR6i0439_T_001-0558b>¶
 
@@ -321,8 +320,7 @@ No.745¶
 洴沙王言：「汝是可憐¶
 之人！」道人答言：「汝是可憐人，非我也！所以¶
 者何？汝為五欲所纏，恩愛所驅使，不得自在。¶
-我今心意靜悅，無欲自在，快樂種種。」為洴¶
-沙王說法已，王即還去。
+我今心意靜悅，無欲自在，快樂種種。」為洴沙王說法已，王即還去。
 
 問曰：「此四眾皆好佛¶
 道，欲行菩薩三事，有欲一日一夜行者，有欲¶
